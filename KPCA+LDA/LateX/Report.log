@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2022.12.29)  30 DEC 2022 02:25
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2022.12.29)  30 DEC 2022 12:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1095,10 +1095,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 Κεφάλαιο 1.
 (chapters/Κεφάλαιο 1.tex
-Overfull \hbox (5.28575pt too wide) in paragraph at lines 3--15
-\TU/Roboto(1)/m/n/10.95 κάθε στήλης και ο μέγιστος αριθμός σε κάθε στήλη. Με τη
-ν εντολή \TU/Roboto(1)/b/n/10.95 data.isnull().sum().head
- []
+Underfull \vbox (badness 1028) has occurred while \output is active []
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1180,12 +1178,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [9]
-Overfull \hbox (14.75916pt too wide) in paragraph at lines 164--166
-[]\TU/Roboto(1)/m/n/10.95 To train accuracy πέφτει μετά το \TU/Roboto(1)/b/n/10
-.95 KPCA \TU/Roboto(1)/m/n/10.95 που αυτό είναι καλό γιατί στο αρχικό είχαμε \T
-U/Roboto(1)/m/it/10.95 overfitting\TU/Roboto(1)/m/n/10.95 ,
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
